@@ -1,5 +1,6 @@
 <p align="center">
   <a href="https://clerk.com?utm_source=github&utm_medium=clerk_docs" target="_blank" rel="noopener noreferrer">
+  
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./public/light-logo.png">
       <img src="./public/dark-logo.png" height="64">
